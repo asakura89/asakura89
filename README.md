@@ -3,4 +3,5 @@
 <br />
 <p style="text-alignment: center">Yok saling bantu dalam berkoding!</p>
 <br />
-https://github-readme-stats.vercel.app/api?username=asakura89&show_icons=true
+
+![stats](https://github-readme-stats.vercel.app/api?username=asakura89&show_icons=true)
